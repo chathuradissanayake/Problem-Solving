@@ -1,1 +1,1 @@
-Hackerrank Solved Problems C++ 
+Hackerrank Solved Problems C++  
