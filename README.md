@@ -1,6 +1,5 @@
 Hackerrank Solved Problems C++   
  
  
- 
   
  
