@@ -1,5 +1,4 @@
 Hackerrank Solved Problems C++   
  
  
-  
  
